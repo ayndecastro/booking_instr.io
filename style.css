@@ -17,7 +17,8 @@ body {
 }
 
 header,
-section {
+main,
+footer {
   overflow-x: hidden;
 }
 p {
